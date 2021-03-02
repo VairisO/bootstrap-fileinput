@@ -81,7 +81,7 @@
             removeTitle: 'Dzest failu',
             uploadTitle: 'Augšupladēt failu',
             uploadRetryTitle: 'Atkārtot augšuplādēšanu',
-            downloadTitle: 'Augšuplādēt failu',
+            downloadTitle: 'Lejuplādēt failu',
             zoomTitle: 'Parskatīt detaļas',
             dragTitle: 'Pārvietot / Mainīt secību',
             indicatorNewTitle: 'Vēl nav augšupladēts',
